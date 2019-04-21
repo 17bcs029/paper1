@@ -60,7 +60,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   box-sizing: border-box;
 }
 .but{
-  
+
   color: #2609ef;
   margin-left: 120PX;
   font-style: oblique;
@@ -78,133 +78,133 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   font-style: oblique;
 }
 .but1{
-  
+
   color: #2609ef;
   margin-left: 220PX;
   font-style: oblique;
 }
 .asb{
-  
+
   color: #2609ef;
   margin-left: 160PX;
   font-style: oblique;
 }
 
 .bbose{
-  
+
   color: #2609ef;
   margin-left: 290PX;
   font-style: oblique;
 }
 .bseb{
-  
+
   color: #2609ef;
   margin-left: 310PX;
   font-style: oblique;
 }
 .cbose{
-  
+
   color: #2609ef;
   margin-left: 120PX;
   font-style: oblique;
 }
 .gbshse{
-  
+
   color: #2609ef;
   margin-left: 200PX;
   font-style: oblique;
 }
 .hbse{
-  
+
   color: #2609ef;
   margin-left: 10PX;
   font-style: oblique;
 }
 .hpsos{
-  
+
   color: #2609ef;
   margin-left: 110PX;
   font-style: oblique;
 }
 .jksos{
-  
+
   color: #2609ef;
   margin-left: 10PX;
   font-style: oblique;
 }
 .kseeb{
-  
+
   color: #2609ef;
   margin-left: 300PX;
   font-style: oblique;
 }
 .ksos{
-  
+
   color: #2609ef;
   margin-left: 150PX;
   font-style: oblique;
 }
 .mpsos{
-  
+
   color: #2609ef;
   margin-left: 140PX;
   font-style: oblique;
 }
 .nbse{
-  
+
   color: #2609ef;
   margin-left: 210PX;
   font-style: oblique;
 }
 .obse{
-  
+
   color: #2609ef;
   margin-left: 210PX;
   font-style: oblique;
 }
 .pseb{
-  
+
   color: #2609ef;
   margin-left: 50PX;
   font-style: oblique;
 }
 .rsos{
-  
+
   color: #2609ef;
   margin-left: 190PX;
   font-style: oblique;
 }
 .tbie{
-  
+
   color: #2609ef;
   margin-left: 190PX;
   font-style: oblique;
 }
 .tbse{
-  
+
   color: #2609ef;
   margin-left: 160PX;
   font-style: oblique;
 }.ubse{
-  
+
   color: #2609ef;
   margin-left: 10PX;
   font-style: oblique;
 }
 .wbbpe{
-  
+
   color: #2609ef;
   margin-left: 190PX;
   font-style: oblique;
 }
 .wbchse{
-  
+
   color: #2609ef;
   margin-left: 120PX;
   font-style: oblique;
 }
 .mspd{
-  
+
   color: #2609ef;
   margin-left: 30PX;
   font-style: oblique;
@@ -259,12 +259,13 @@ header nav {
 header nav a {
   color: #fff;
   display: inline-block;
-  padding: 10px 15px;
+  padding: 20px 20px 20px 20px;
   line-height: 1;
   text-decoration: none;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
   border-radius: 2px;
+  float: left;
 }
 header nav a:hover {
   -moz-box-shadow: 0 0 0 1px #fff;

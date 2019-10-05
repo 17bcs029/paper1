@@ -5,6 +5,6 @@ $(function(){
       $("body").addClass("sticky-header");
     }else{
       $("body").removeClass("sticky-header");
-    }//if-else
-  });//win func.
-});//ready func.
+    }
+  })
+})

@@ -1,1 +1,1 @@
-### It's for 10th and 12th students.
+### It's for the 10th and 12th class students.
